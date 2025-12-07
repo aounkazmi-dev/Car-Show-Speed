@@ -71,8 +71,3 @@ This is a simple **car racing game** implemented in **x86 Assembly** for DOSBox.
 3. Mount the project folder in DOSBox
 4. Assemble and run the game using your preferred assembler (MASM/TASM/NASM)
    
-```asm
-; Example (TASM)
-tasm main.asm
-tlink main.obj
-main.exe
